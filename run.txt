@@ -1,0 +1,7 @@
+##how to run
+Compile all .java files using:
+javac *.java
+
+
+Run the game:
+java Main
