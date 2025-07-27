@@ -1,0 +1,4 @@
+public enum MoveType {
+    FIRE, WATER, GRASS, ELECTRIC, DRAGON,
+    NORMAL, DARK, FLYING, ICE, GROUND, ROCK
+}
